@@ -139,9 +139,11 @@ body.dark h1, body.dark .support a {
   display: block;
 }
 .header ul li a.active{
-  color: #12372A;
+  font-weight: bolder;
+  color:#f39c12;
 } 
 .header ul li a:hover{
+  font-weight: bolder;
   color:#12372A;
 }
 .header .menu_icon{
